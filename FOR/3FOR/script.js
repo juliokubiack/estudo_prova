@@ -1,0 +1,1 @@
+//3. Médio: Peça um número ao usuário e calcule o fatorial dele.

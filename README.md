@@ -1,7 +1,6 @@
 # estudo_prova
 
-Lista de exercícios — JavaScript
-Resolva os exercícios e envie seus códigos para correção. Todos os exercícios estão apenas com os enunciados, sem dicas ou respostas.
+
 1. While — Estrutura de repetição
 1. Fácil: Faça um programa que mostre todos os números de 1 até 10 utilizando while.
 
@@ -15,6 +14,7 @@ Resolva os exercícios e envie seus códigos para correção. Todos os exercíci
 - A média dos números.
 5. Desafio: Faça um programa que solicite um número inteiro positivo ao usuário. Depois, mostre a tabuada desse número de 1 até 10. Se o usuário digitar um número inválido, peça novamente.
 
+FEITOOOOO
 
 2. For — Laço de repetição
 1. Fácil: Utilizando for, mostre os números de 1 até 20.
