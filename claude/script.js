@@ -11,3 +11,4 @@ if (media>=7){
 console.log(`Aprovado, sua media é de ${media} `)}
 else{
  console.log(`reprovado, sua media foi de ${media}`)}
+
